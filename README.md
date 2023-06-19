@@ -13,7 +13,7 @@
 MEU LINKEDIN<BR/>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-damasceno-da-silva/)
 
-###   Sou apaixonado por Tecnologia, Gosto muito de aprender, estou em transição de carreira <br/> Tenho conhecimentos com todas essas teclogias a cima !!
+###   Sou apaixonado por Tecnologia, Gosto muito de aprender, estou em transição de carreira <br/> Tenho conhecimentos com todas essas tecnologias a cima !!
 ## No meu LINKEDIN você verá todas as minhas certificações e graduação em
 ANALISE E DESENVOLVIMENTO DE SISTEMA CURSANDO 3º SEMESTRE<BR/>
 CONHECIMENTOS TEORICOS EM METADO ÁGEIS COMO SCRUM, XP E KANBAN
