@@ -15,7 +15,8 @@ MEU LINKEDIN<BR/>
 
 ###   Sou apaixonado por Tecnologia, Gosto muito de aprender, estou em transição de carreira <br/> Tenho conhecimentos com todas essas tecnologias a cima !!
 ## No meu LINKEDIN você verá todas as minhas certificações e graduação em
-ANALISE E DESENVOLVIMENTO DE SISTEMA CURSANDO 3º SEMESTRE<BR/>
+ANALISE E DESENVOLVIMENTO DE SISTEMA CURSANDO 5º SEMESTRE<BR/>
+CURSANDO ATUALMENTE CIENCIAS DA COMPUTAÇÃO
 CONHECIMENTOS TEORICOS EM METADO ÁGEIS COMO SCRUM, XP E KANBAN
 
 <h4>CERTIFICADOS E ATIVIDADE COMPLEMENTARES</h4>
